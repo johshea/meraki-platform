@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1009754",
+        "name": "Ultron",
+        "url": "https://n111.meraki.com/o/F8r5Jd/manage/organization/overview",
+        "api": { "enabled": true }
+    },
+    {
+        "id": "365279",
+        "name": "DevNet",
+        "url": "https://n369.meraki.com/o/tcQb-c/manage/organization/overview",
+        "api": { "enabled": true }
+    },
+    {
+        "id": "959370",
+        "name": "Vision",
+        "url": "https://n40.meraki.com/o/U1Ovic/manage/organization/overview",
+        "api": { "enabled": true }
+    },
+    {
+        "id": "125707",
+        "name": "Turbek",
+        "url": "https://n36.meraki.com/o/52VF6a/manage/organization/overview",
+        "api": { "enabled": true }
+    }
+]
